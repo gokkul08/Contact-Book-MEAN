@@ -1,7 +1,7 @@
 
 
-# contactlistapp
-
+# Address Book
+This application is built using MEAN(MongoDB, ExpressJS, AngularJS, NodeJS) Stack. The CSS components are built using Bootstrap.
 
 
 ## Usage
